@@ -1,4 +1,4 @@
 # onerepository
 here is our second repo try.
 <br>
-Author Alisha Yasir
+Author Alisha (student)
